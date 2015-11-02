@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65a68f62-1392-4fb3-80b1-eff9df99f74a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/51CTO下载-17.IP地址规划.ppt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/backup/51CTO下载-Linux常用命令（都在这了）.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/51CTO下载-Python操作Mysql实例教程手册 (1).pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/51CTO下载-Python操作Mysql实例教程手册.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/backup/51CTO下载-Python编程实例.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/51CTO下载-Shell脚本专家指南.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/51CTO下载-linux shell.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/backup/51CTO下载-python官方入门指南中文版.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/backup/51CTO下载-python实例手册.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/51CTO下载-python新员工教材.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/51CTO下载-python标准库.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/backup/51CTO下载-万能sql语句生成器_自带数据库管理器支持市面上所有数据库.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/backup/51CTO下载-微软认证MCITP实验手册最新完整中文详解版.part1.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/backup/51CTO下载-微软认证MCITP实验手册最新完整中文详解版.part2.rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/51CTO下载-用Python学编程 (2).rar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/51CTO下载-看日记学git.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/PythonV2/BeOpen-Python-2_0.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Smalltalk/tutor/CHB.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/unicode/python-mappings/CP1140.TXT.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Smalltalk/tutor/DolphinCDSetup.EXE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Smalltalk/tutor/DolphinEducation.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/unicode/python-mappings/KOI8-U.TXT.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Linux常用命令（都在这了）/Linux常用命令全集.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/README.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/faqwiz/README.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/freeze/README.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/README.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/README.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/rpc/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/downloads/SpecPython0_2.tgz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/downloads/SpecTcl1_1.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/unicode/python-mappings/TIS-620.TXT.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/[美河学习在线eimhe.com]python官方入门指南中文版.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/about.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/ascii_dora.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/audiopy/audiopy.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/bold.xbm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/capital.xbm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/centerj.xbm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/combobox.xbm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/combobox.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/copyright" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Delphi/tutor/delphitut.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/drivea.xbm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/drivea.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/dutree.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/exit.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/filebox.xbm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/filebox.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Delphi/code/hellopas.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/hm0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/hm1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/hm2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/hm3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/hm4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/hm5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/hm6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/downloads/idle05.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/downloads/idleUse05b.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/italic.xbm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Javascript/tutor/jsintro.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/justify.xbm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/leftj.xbm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/downloads/life-preserver-html_tar.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Java/tutor/Java Programming for beginners in four hours_files/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/netw.xbm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/netw.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/newslist.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/optmenu.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/downloads/py152.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pysvr/pysvr.c.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/readme.doc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/rightj.xbm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/select.xpm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Tcl/tutor/tcltut.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/parser/texipre.dat.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/tix.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/downloads/tutor.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/txl.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/underline.xbm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/VB/tutor/vb_site.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/downloads/win32all-132.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/PythonV2/win32all-134.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/world/world.gz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Lisp/tutor/xl304req.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Lisp/tutor/xl304win.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/万能sql语句生成器_自带数据库管理器支持市面上所有数据库.exe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/00-HELLO-WORLD.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/10进制转换__输出字符.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/111222.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/2to3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/compiler/ACKS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/Arithmetic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/AttrDialog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/samples/Balloon.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/samples/BtnBox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Cplusplus/tutor/C-tutors.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/CSV文件的读取操作代码模板.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/Calls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/ChipViewer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/samples/CmpImg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/ColorDB.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/samples/ComboBox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/CommandLine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/classes/Complex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/Constructs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/samples/Control.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/threads/Coroutine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/classes/Dates.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/classes/Dbm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/DetailsViewer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/Dict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/samples/DirList.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/samples/DirTree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/Django--下载CVS文件.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/Django--网页显示图片.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/EXAMPLE.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/metaclasses/Eiffel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/newmetaclasses/Eiffel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/metaclasses/Enum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/newmetaclasses/Enum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/Exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/parser/FILES" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/FSProxy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/threads/Generator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/INSTALL.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/Imports.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/Instances.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Java/tutor/Java Programming for beginners in four hours.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/LazyManage.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/LazyManage_带注释.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Smalltalk/tutor/Licence.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Linux 系统运维常用命令.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/ListViewer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/Lists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/Lookups.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/rpc/MANIFEST" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/Main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/embed/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pysvr/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/unicode/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/ManPage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Perl/code/Message.pm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/metaclasses/Meta.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/MimeViewer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/NewInstances.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/samples/NoteBook.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/Numbers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/samples/OptMenu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/samples/PanedWin.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/samples/PopMenu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/PyncheWidget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/RCSProxy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/buildbot/README.tcltk-AMD64" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/downloads/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/PythonV2/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/framer/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/msi/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Cplusplus/tutor/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Delphi/tutor/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Java/tutor/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Javascript/tutor/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Lisp/tutor/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Perl/tutor/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Smalltalk/tutor/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Tcl/tutor/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/VB/tutor/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/cgi/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/classes/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/comparisons/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/curses/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/embed/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/md5test/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/parser/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pysvr/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/sockets/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/threads/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/audiopy/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/bgen/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/compiler/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/versioncheck/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/webchecker/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/world/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/classes/Range.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/classes/Rev.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/samples/SHList1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/samples/SHList2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/ScrolledListbox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/Setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/ShellWindow.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/metaclasses/Simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/Strings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/StripViewer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/Switchboard.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/metaclasses/Synch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/rpc/T.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/framer/TODO.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/TextViewer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Tkextra.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/metaclasses/Trace.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/samples/Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/Tuples.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/Txl_函数利用.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/Txl_手工代码堆积.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/TypeinViewer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/Unicode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/classes/Vec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/With.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/framer/framer/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/package/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/versioncheck/_checkversion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/about_turtle.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/about_turtledemo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/animation-simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/animation-w-velocity-ctrl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section2/areas.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section2/argv2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/ascii.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/compiler/ast.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/compiler/astgen.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/baiduTieba.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section3/bankaccount.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/framer/framer/bases.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/beer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/bgen/bgen/bgen.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/bgen/bgen/bgenBuffer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/bgen/bgen/bgenGenerator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/bgen/bgen/bgenGeneratorGroup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/bgen/bgen/bgenHeapBuffer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/bgen/bgen/bgenModule.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/bgen/bgen/bgenObjectDefinition.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/bgen/bgen/bgenOutput.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/bgen/bgen/bgenStackBuffer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/bgen/bgen/bgenStringBuffer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/bgen/bgen/bgenType.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/bgen/bgen/bgenVariable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/bind-w-mult-calls-p-type.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/classes/bitvec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/freeze/bkfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/sockets/broadcast.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/brownian.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/brownian2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/buildbot/build-amd64.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/buildbot/build.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/buildbot/buildmsi.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/byext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/byteyears.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/canvas-demo-simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/canvas-gridding.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/canvas-moving-or-creating.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/canvas-moving-w-mouse.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/canvas-mult-item-sel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/canvas-reading-tag-info.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/canvas-w-widget-draw-el.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/canvas-with-scrollbars.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/canvasevents.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section2/cat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/cgi/cgi0.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/cgi/cgi1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/cgi/cgi2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/cgi/cgi3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/checkappend.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/freeze/checkextensions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/freeze/checkextensions_win32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/checkpyc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/versioncheck/checkversions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/classDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/classDemo_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/classDemo_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/classDemo_4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/classDemo_5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/classfix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/buildbot/clean-amd64.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/buildbot/clean.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/cleanfuture.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/client.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/clockres.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/cmdfw.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/cmptree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/combinerefs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/bitmaps/combobox.xpm.1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/unicode/comparecodecs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/compiler/compile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section2/copy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section2/copyfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/copytime.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/coubai.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/coubai_lei.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/crlf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/msi/crtlicense.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/cvsfiles.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/cvslib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/cvslock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/datatimeDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/datetimeDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/datetimeDemo_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section2/dayofweek.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/db2pickle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section2/def-arg-gotcha.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/defDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/defDemo_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/embed/demo.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/compiler/demo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/demohelp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/dialog-box.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/dialog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/dicDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/diff.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/dmoz_spider.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/parser/docstring.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/document.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/compiler/dumppyc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/dutree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/sockets/echosvr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/electrons.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/xml/elem_count.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/entry-simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/entry-with-shared-variable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/enumerateDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/eptags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/eqfix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section2/errors.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section3/eventgui.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section3/eventloop.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-1.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-10.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-11.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-12.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-13.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-14.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-15.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-16.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-17.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-18.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-19.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-2.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-20.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-21.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-3.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-4.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-5.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-6.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-7.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-8.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/ex8-9.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/parser/example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/framer/example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/freeze/extensions_win32.ini" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/buildbot/external-amd64.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/buildbot/external-common.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/buildbot/external.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/fact.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section3/factorial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/faqwiz/faqconf.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/faqwiz/faqcust.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/faqwiz/faqw.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/faqwiz/faqwiz.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/threads/fcmp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/filterDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/find-uname.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/threads/find.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/finddiv.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/findlinksto.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/findnocoding.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/sockets/finger.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/first.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/fixcid.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/fixdiv.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/fixheader.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/fixnotice.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/fixps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/md5test/foo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/forDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/freeze/freeze.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/from.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/sockets/ftp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/ftpmirror.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/ftpstats.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/framer/framer/function.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/game.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/unicode/gencjkcodecs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/unicode/gencodec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/genmodule.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/ssl/get-remote-certificate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/getDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/gis_FKTMZX.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/google.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/sockets/gopher.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/gprof2html.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/grammar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/grammargui.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/grid.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/h2py.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/hangman.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/hangman.words" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/hanoi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Cplusplus/code/hello.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Java/code/hello.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Perl/code/hello.pl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/hello.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/freeze/hello.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Delphi/code/hellopas.dpr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/VB/code/hellovb.vbs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/hmgui.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/hotshotmain.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/html40colors.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/idle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/ifDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/ifDemo_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/ifdef.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/imagedraw.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/imageview.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/importDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/imputil/importers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/embed/importexc.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/metaclasses/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/kill.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/killing-window-w-wm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/imputil/knee.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/lambdaDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/lfcr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/gdb/libpython.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Smalltalk/tutor/license.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/curses/life.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/line_confDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/line_confDemo_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/line_confDemo_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/linktree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/listDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/listDemo_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/unicode/listcodecs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/listtree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/lll.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/logmerge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/embed/loop.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/lpwatch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/mac.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/bgen/bgen/macsupport.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/mailerdaemon.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/makechangelog.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/freeze/makeconfig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/makedir.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/freeze/makefreeze.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/i18n/makelocalealias.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/freeze/makemakefile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/unicode/makeunicodedata.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/mapDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/markov.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/mastermind.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/mbox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/mboxconvert.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/sockets/mcast.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/md5test/md5driver.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/md5sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/framer/framer/member.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/menu-all-types-of-entries.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/menu-simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section2/menu.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/msi/merge.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/metaclasses/meta-vladimir.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/methfix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/zlib/minigzip.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/mkrcs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/mkreal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/unicode/mkstringprep.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/mmgui.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/modulator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/module_head" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/module_method" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/module_tail" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/morse.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/rpc/mountclient.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/faqwiz/move-faqwiz.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/i18n/msgfmt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/msi/msi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/msi/msilib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/msi/msisupport.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/msi/msisupport.mak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/namedcolors.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/curses/ncurses.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/ndiff.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section2/nesterror.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/newmenubardemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/newslist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/nextDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/rpc/nfsclient.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/nm2def.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/not-what-you-might-think-1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/not-what-you-might-think-2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_head" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_method" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_mlist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_new" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_structure" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_tail" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_tp_as_mapping" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_tp_as_number" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_tp_as_sequence" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_tp_call" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_tp_compare" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_tp_dealloc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_tp_getattr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_tp_hash" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_tp_print" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_tp_repr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_tp_setattr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/Templates/object_tp_str" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/objgraph.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/optionmenu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/os.pathDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/packer-and-placer-together.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/packer-simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/paint.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/parseentities.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/freeze/parsesetup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/patchcheck.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/pathfix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/comparisons/patterns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/pdeps.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/pi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/pickle2db.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/pindent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/placer-simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/pong-demo-1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/postDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/pp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/primes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/printing-coords-of-items.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/ptags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/pyColorChooser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/pybench.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/pydoc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/pydocgui.pyw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/i18n/pygettext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/pynche.pyw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/pynche" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/pysource.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pysvr/pysvr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python 读取文件.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/python 读取文件.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/python 连接 mysql.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/python_write.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/python实例手册.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/versioncheck/pyversioncheck.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/queens.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/sockets/radio.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/radiobutton-simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/curses/rain.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/rangeDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/rcsbump" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/rcsclient.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/rcslib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/rcvs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/rcvs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/reDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/record.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/redemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/reduceDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section3/regex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/comparisons/regextest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/compiler/regrtest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/reindent-rst.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/reindent.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/curses/repeat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/rgrep.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/rmt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/rpc/rnusersclient.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section2/roomarea.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/xml/roundtrip.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/rpc/rpc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/sockets/rpython.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/sockets/rpythond.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/rrcs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/rrcs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/xml/rss2html.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/rubber-band-box-demo-1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/rubber-line-demo-1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/bgen/bgen/scantools.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/msi/schema.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/script.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/security.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/msi/sequence.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/server.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/shuchu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/parser/simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/slider-demo-1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/framer/framer/slots.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/solitaire.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/comparisons/sortingtest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/sortvisu.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/parser/source.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/spider.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/spider20150329.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/threads/squasher.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/ss1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/compiler/stacktest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/framer/framer/struct.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/framer/framer/structparse.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/subclass-existing-widgets.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/package/submodule.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/suff.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/pdist/sumtree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/svkill.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/svneol.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/switch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/threads/sync.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sysctl.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/comparisons/systemtest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pybench/systimes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/curses/tclock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/tdemo_I_dontlike_tiltdemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/tdemo_bytedesign.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/tdemo_chaos.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/tdemo_clock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/tdemo_colormixer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/tdemo_fractalcurves.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/tdemo_lindenmayer_indian.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/tdemo_minimal_hanoi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/tdemo_paint.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/tdemo_peace.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/tdemo_penrose.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/tdemo_planet_and_moon.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/tdemo_tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/tdemo_wikipedia.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/tdemo_yinyang.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/sockets/telnet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/threads/telnet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/framer/framer/template.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/buildbot/test-amd64.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/buildbot/test.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/test.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/chapter8/test.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/test.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/testDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/rpc/test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/parser/test_parser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section3/testacct.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/testhtm.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/texcheck.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/texi2html.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/sockets/throughput.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/timeDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section2/timestab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tix/tixwidgets.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/tkman.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/webchecker/tktools.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/treesync.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/tryDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/turtle.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/turtleDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/turtle/turtledemo_two_canvases.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/two-radio-groups.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/sockets/udpecho.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/msi/uisample.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/unbirthday.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/sockets/unicast.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/sockets/unixclient.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/sockets/unixserver.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/parser/unparse.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/untabify.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/update.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/urllib2_test01.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/framer/framer/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/msi/uuids.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/modulator/varsubst.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Python/code/section4/wc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/webchecker/wcgui.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/webchecker/wcmac.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/webchecker/webchecker.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/webcolors.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/pynche/websafe.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/webchecker/websucker.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/wget.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/scripts/wh.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/which.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/whileDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/cgi/wiki.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/freeze/win32.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/otherlang/Perl/tutor/win32perltut.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/win_add2path.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/window-creation-more.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/window-creation-simple.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/matt/window-creation-w-location.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/freeze/winmakemakefile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/tkinter/guido/wish.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/webchecker/wsgui.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/rpc/xdr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/curses/xmas.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Tools/scripts/xxci.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/yunwei.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/zipDemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/examples/Demo/zlib/zlibdemo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Linux常用命令（都在这了）/下载及使用说明.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/使用scrapy抓取BLAH全部EPUB格至书籍.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/使用通配符操作文件夹下所有符合文件.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/判断小米手机是否开抢.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/判断小米手机是否开抢.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/压缩文件ZIP文件操作.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/压缩文件ZIP文件操作.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/周期执行函数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/多线程爬虫.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/学习作业.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/定时播放.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/抓取中文网页.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/抓取中文网页.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/拼接字符符.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/文件操作_读_写_指定位置.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/日期操作.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/未命名.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/未命名" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python教程/Linux常用命令（都在这了）/查看文件解压密码（网址即为解压密码）.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/检测OpenSSL漏洞的脚本.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/模拟登录.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/正则表达式.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/爬取和保存豆瓣小组图片.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/生成时间戳.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/用正则表达式读取tomcat的日志.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/百度贴吧爬虫.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/统计代码行数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/虾米网自动签到.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/计算两个日期之间的工作日数.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/计算文件md5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/论坛自动灌水机.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/输出当前工作路径.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/通讯录完整代码.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/重复文件杀手.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/练习代码/python代码收集/高级WEB客户端：网络爬虫--crawl.py" />
+    </list>
+    <ignored path="yunwei.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="yunwei" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="-4" />
+    <option name="width" value="1440" />
+    <option name="height" value="904" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunwei" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunwei" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yunwei" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in yunwei">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="yunwei" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="yunwei" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="yunwei" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="yunwei" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="yunwei" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="yunwei" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in yunwei" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="yunwei" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="$PROJECT_DIR$" />
+      <option name="TEST_TYPE" value="TEST_FOLDER" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in yunwei" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65a68f62-1392-4fb3-80b1-eff9df99f74a" name="Default" comment="" />
+      <created>1446434154508</created>
+      <option name="number" value="Default" />
+      <updated>1446434154508</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="1440" height="904" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991013" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24982357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6200257" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

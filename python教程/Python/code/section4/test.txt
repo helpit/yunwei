@@ -1,0 +1,7 @@
+Here is a single line of text, a sentence with 2 clauses.
+
+Is this a second paragraph, also short with only 2 clauses?
+
+A new Paragraph and sentence! This is another sentence which
+spans lines. The file has a total of 7 lines, 3 paras, 
+5 sentences,  10 clauses and 52 words.
