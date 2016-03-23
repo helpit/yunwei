@@ -1,8 +1,0 @@
-#! /usr/bin/python2.6
-
-import addpack
-addpack.addpack('/home/guido/src/python/Demo/pdist')
-
-import rcvs
-
-rcvs.main()
